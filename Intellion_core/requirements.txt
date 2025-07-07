@@ -1,0 +1,10 @@
+pandas
+requests
+python-dotenv
+openai
+catboost
+scikit-learn
+beautifulsoup4
+lxml
+nltk
+tqdm
